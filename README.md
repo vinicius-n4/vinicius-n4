@@ -1,5 +1,5 @@
 ### Hello everyone!
-I'm a Brazilian software developer with eight years of experience in the field of IT solutions. In 2020, I decided to change careers to be a backend developer, so I started to study on my own until I reached that goal. Currently, I'm part of a development team that uses the Golang and GCP infrastructure to develop a RESTful API platform. 
+I'm a software developer with eight years of experience in the field of IT solutions. In 2020, I decided to change careers to be a backend developer, so I started to study on my own until I reached that goal. Currently, I'm part of a development team that uses the Golang and GCP infrastructure to develop a RESTful API platform. 
 
 ##
 ### Stats
