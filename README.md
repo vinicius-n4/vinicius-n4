@@ -1,5 +1,5 @@
 ### Hello everyone!
-I'm a software developer with three years of experience. In 2020, I decided to change career to be a backend developer, so I started to study until reach that goal. 
+I'm a software developer with three years of experience. In 2020, I decided to change career to be a backend developer. 
 Currently, I'm part of a development team that uses Golang and GCP infrastructure to develop a Restful Liveness API platform.
 
 ##
@@ -21,6 +21,7 @@ Currently, I'm part of a development team that uses Golang and GCP infrastructur
   <img align="center" alt="vini-gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="vini-k8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="vini-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="vini-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
   
 ##
