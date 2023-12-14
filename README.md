@@ -1,6 +1,6 @@
 ### Hello everyone!
 I'm a software developer with three years of experience. In 2020, I decided to change career to be a backend developer. 
-Currently, I'm part of a development team that uses Golang and GCP infrastructure to develop a Restful Liveness API platform.
+Currently, I'm part of a development team that uses Golang and GCP infrastructure to develop a Liveness API platform.
 
 ##
 ### Stats
