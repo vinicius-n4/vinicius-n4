@@ -1,6 +1,6 @@
 ### Hello everyone!
 I'm a software developer with three years of experience. In 2020, I decided to change my career to be a backend developer. 
-Currently, I'm part of a development team that uses Golang and GCP infrastructure to develop a Liveness API platform.
+Currently, I'm part of a development team that uses Golang and GCP infrastructure to develop an API platform.
 
 ##
 ### Stats
@@ -15,7 +15,7 @@ Currently, I'm part of a development team that uses Golang and GCP infrastructur
 ### Skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="vini-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="vini-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" alt="vini-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="vini-golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="vini-postgresql" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
